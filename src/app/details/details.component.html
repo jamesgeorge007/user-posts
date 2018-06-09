@@ -1,7 +1,13 @@
-<h1>{{ userData.name }}</h1>
+<ng-container *ngIf="user$ | async as user; else error">
+  <h1>{{ user.name }}</h1>
 
-<ul>
-  <li><strong>Username:</strong> {{ userData.username }}</li>
-  <li><strong>Email:</strong> {{ userData.email }}</li>
-  <li><strong>Phone:</strong> {{ userData.phone }}</li>
-</ul>
+  <ul>
+    <li><strong>Username:</strong> {{ user.username }}</li>
+    <li><strong>Email:</strong> {{ user.email }}</li>
+    <li><strong>Phone:</strong> {{ user.phone }}</li>
+  </ul>
+</ng-container>
+
+<ng-template #error>
+  Error retrieving user data
+</ng-template>
