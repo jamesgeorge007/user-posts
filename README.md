@@ -10,6 +10,8 @@
 
 <img align="right" src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/posts.JPG" width="400">
 
+<br />
+
 <img align="center" src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/user_details.JPG" width="400">
 
 ## Development server
