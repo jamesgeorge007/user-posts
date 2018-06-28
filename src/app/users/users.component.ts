@@ -1,3 +1,4 @@
+import { User } from './../models/user';
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
 import { Observable } from 'rxjs';
@@ -9,14 +10,12 @@ import { Observable } from 'rxjs';
 })
 export class UsersComponent implements OnInit {
 
-  users$: Object;
+  users$: Observable<User>;
 
   constructor(private data: DataService) { }
 
   ngOnInit() {
-    this.data.getUsersData().subscribe(
-      data => this.users$ = data
-    );
+    this.users$ = this.data.getUserData();
   }
 
 }
