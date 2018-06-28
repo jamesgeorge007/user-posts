@@ -1,4 +1,4 @@
-# UserPosts
+# User-Posts
 
 > This was just a fun project I did so as to familiarise myself with Angular 6 which fetches data (user details and posts) from a random API and neatly renders it on to the browser.
 
