@@ -6,7 +6,7 @@
 
 ## Snips
 
-![users](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/users.JPEG) ![posts](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/posts.JPEG) ![user-details](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/user-details.JPEG)
+![users](https://github.com/jamesgeorge007/user-posts/blob/master/src/assets/users.JPG) ![posts](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/posts.JPG) ![user-details](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/user-details.JPG)
 
 ## Development server
 
