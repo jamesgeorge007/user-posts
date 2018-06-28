@@ -7,7 +7,7 @@
 ## Snips
 
 ![users](https://github.com/jamesgeorge007/user-posts/blob/master/src/assets/users.JPG)
-![posts](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/posts.JPG) 
+<img src="https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/posts.JPG">
 ![user-details](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/user_details.JPG)
 
 ## Development server
