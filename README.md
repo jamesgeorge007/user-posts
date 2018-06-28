@@ -1,6 +1,12 @@
 # UserPosts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+> This was just a fun project I did so as to familiarise myself with Angular 6 which fetches data (user details and posts) from a random API and neatly renders it on to the browser.
+
+> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+
+## Snips
+
+![users](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/users.JPEG) ![posts](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/posts.JPEG) ![user-details](https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/user-details.JPEG)
 
 ## Development server
 
