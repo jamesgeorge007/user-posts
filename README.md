@@ -6,7 +6,7 @@
 
 ## Snips
 
-<img src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/userss.JPG">
+<img src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/users.JPG">
 
 <img src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/posts.JPG">
 
