@@ -6,11 +6,11 @@
 
 ## Snips
 
-<img src="https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/users.JPG">
+<img src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/userss.JPG">
 
-<img src="https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/posts.JPG">
+<img src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/posts.JPG">
 
-<img src="https://github.com/jamesgeorge007/user-posts/tree/master/src/assets/user_details.JPG">
+<img src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/user_details.JPG">
 
 ## Development server
 
