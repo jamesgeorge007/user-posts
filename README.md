@@ -12,7 +12,7 @@
 
 <br />
 
-<img align="center" src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/user_details.JPG" width="400">
+<img src="https://github.com/jamesgeorge007/user-posts/blob/master/snips/user_details.JPG" width="400">
 
 ## Development server
 
